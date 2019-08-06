@@ -1,0 +1,2 @@
+# MySQL-notes
+study notes
